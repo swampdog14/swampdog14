@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @swampdog14
-- 👀 I’m interested in learning app and web development.
-- 🌱 I’m currently learning the basics on The Odin Project.
+- 🌱 I’m currently learning web development through The Odin Project.
 - 💞️ I’m looking to collaborate on anything you or I need help with. It will probably be mostly me asking for help right now.
 - 📫 You can reach me via Twitter @swampdog_14
 
